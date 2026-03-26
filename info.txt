@@ -1,3 +1,4 @@
 Name: Dhiraj
-Learning DevOps and improving Git skills.
+Learning DevOps
+Practicing Git branching
 
